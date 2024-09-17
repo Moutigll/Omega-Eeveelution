@@ -2,147 +2,147 @@
     "name": "omega_eeveelution",
     "icons": "omega_eeveelution",
     "colors": {
-        "PrimaryText": "#332011",
-        "SecondaryText": "#633C15",
-        "AccentText": "#C5915D",
-        "ApproximateSignText": "#FAD0D5",
-        "ApproximateExpressionText": "#FAD0D5",
+        "PrimaryText": "332011",
+        "SecondaryText": "633C15",
+        "AccentText": "C5915D",
+        "ApproximateSignText": "FAD0D5",
+        "ApproximateExpressionText": "FAD0D5",
         "Background": {
-            "Hard": "#FAD0D5",
-            "Apps": "#BFE4DE",
-            "AppsSecondary": "#8B647D"
+            "Hard": "FAD0D5",
+            "Apps": "BFE4DE",
+            "AppsSecondary": "8B647D"
         },
         "Toolbar": {
-            "": "#726CA8",
-            "Text": "#FCF3E4"
+            "": "726CA8",
+            "Text": "FCF3E4"
         },
         "ExpressionInput": {
-            "Background": "#DFE5F2",
-            "Border": "#E07451"
+            "Background": "DFE5F2",
+            "Border": "E07451"
         },
         "Grid": {
-            "PrimaryLine": "#8D6033",
-            "SecondaryLine": "#7AC89E"
+            "PrimaryLine": "8D6033",
+            "SecondaryLine": "7AC89E"
         },
         "Battery": {
-            "": "#FBD570",
-            "InCharge": "#7AC89E",
-            "Low": "#C64863"
+            "": "FBD570",
+            "InCharge": "7AC89E",
+            "Low": "C64863"
         },
         "ScrollBar": {
-            "Foreground": "#336E8C",
-            "Background": "#79CEE0"
+            "Foreground": "336E8C",
+            "Background": "79CEE0"
         },
         "Control": {
-            "": "#F7E8A1",
-            "Enabled": "#EB804C",
-            "Disabled": "#A9584C"
+            "": "F7E8A1",
+            "Enabled": "EB804C",
+            "Disabled": "A9584C"
         },
         "Calculation": {
-            "BackgroundOdd": "#F7E8A1",
-            "BackgroundEven": "#EB804C",
-            "EmptyBox": "#FAFAFA",
-            "EmptyBoxNeeded": "#C7AB75",
-            "TrigoAndComplexForeground": "#FAD0D5"
+            "BackgroundOdd": "F7E8A1",
+            "BackgroundEven": "EB804C",
+            "EmptyBox": "FAFAFA",
+            "EmptyBoxNeeded": "C7AB75",
+            "TrigoAndComplexForeground": "FAD0D5"
         },
         "Code": {
-            "Background": "#336E8C",
-            "BackgroundSelected": "#778BBE",
-            "Text": "#F59BAD",
-            "Comment": "#7AC89E",
-            "Number": "#726CA8",
-            "Keyword": "#371750",
-            "Operator": "#C64863",
-            "String": "#A9584C",
-            "GutterViewBackground": "#5782A6"
+            "Background": "336E8C",
+            "BackgroundSelected": "778BBE",
+            "Text": "F59BAD",
+            "Comment": "7AC89E",
+            "Number": "726CA8",
+            "Keyword": "371750",
+            "Operator": "C64863",
+            "String": "A9584C",
+            "GutterViewBackground": "5782A6"
         },
         "Probability": {
-            "Curve": "#5BCEFA",
-            "CellBorder": "#F5A9B8",
-            "HistogramBar": "#F5A9B8"
+            "Curve": "5BCEFA",
+            "CellBorder": "F5A9B8",
+            "HistogramBar": "F5A9B8"
         },
         "Statistics": {
-            "Box": "#F5A9B8",
-            "BoxVerticalLine": "#F5A9B8",
-            "Selected": "#F5A9B8",
-            "NotSelected": "#F5A9B8"
+            "Box": "F5A9B8",
+            "BoxVerticalLine": "F5A9B8",
+            "Selected": "F5A9B8",
+            "NotSelected": "F5A9B8"
         },
         "Graph": {
-            "Tangent": "#DFE5F2"
+            "Tangent": "DFE5F2"
         },
         "SubMenu": {
-            "Background": "#FAD0D5",
-            "Border": "#9EDEF9",
-            "Text": "#F8EADC"
+            "Background": "FAD0D5",
+            "Border": "9EDEF9",
+            "Text": "F8EADC"
         },
         "Toolbox": {
-            "HeaderBackground": "#336E8C",
-            "HeaderText": "#FAD0D5",
-            "HeaderBorder": "#FAD0D5",
-            "Background": "#E8E5C2"
+            "HeaderBackground": "336E8C",
+            "HeaderText": "FAD0D5",
+            "HeaderBorder": "FAD0D5",
+            "Background": "E8E5C2"
         },
         "List": {
-            "CellBackground": "#C7AB75",
-            "CellBackgroundSelected": "#FBD570",
-            "CellBorder": "#FBD570"
+            "CellBackground": "C7AB75",
+            "CellBackgroundSelected": "FBD570",
+            "CellBorder": "FBD570"
         },
         "Button": {
-            "Background": "#C5915D",
-            "BackgroundSelected": "#F4D995",
-            "BackgroundSelectedHighContrast": "#F4D995",
-            "Border": "#C5915D",
-            "RowBorder": "#F4D995",
-            "BorderOut": "#F4D995",
-            "Shadow": "#020303",
-            "Text": "#F8EADC"
+            "Background": "C5915D",
+            "BackgroundSelected": "F4D995",
+            "BackgroundSelectedHighContrast": "F4D995",
+            "Border": "C5915D",
+            "RowBorder": "F4D995",
+            "BorderOut": "F4D995",
+            "Shadow": "020303",
+            "Text": "F8EADC"
         },
         "Tab": {
-            "Background": "#E07451",
-            "BackgroundSelected": "#F4D995",
-            "BackgroundActive": "#F4D995",
-            "BackgroundSelectedAndActive": "#F4D995",
-            "Text": "#020303",
-            "TextActive": "#F4D995"
+            "Background": "E07451",
+            "BackgroundSelected": "F4D995",
+            "BackgroundActive": "F4D995",
+            "BackgroundSelectedAndActive": "F4D995",
+            "Text": "020303",
+            "TextActive": "F4D995"
         },
         "SubTab": {
-            "Background": "#E8E5C2",
-            "BackgroundSelected": "#336E8C",
-            "Text": "#FAD0D5"
+            "Background": "E8E5C2",
+            "BackgroundSelected": "336E8C",
+            "Text": "FAD0D5"
         },
         "Banner": {
-            "FirstBackground": "#FAD0D5",
-            "FirstBorder": "#9EDEF9",
-            "FirstText": "#F8EADC",
-            "FirstVariantBackground": "#FAD0D5",
-            "FirstVariantBorder": "#9EDEF9",
-            "FirstVariantText": "#F8EADC",
-            "SecondBackground": "#FAD0D5",
-            "SecondBorder": "#9EDEF9",
-            "SecondText": "#F8EADC"
+            "FirstBackground": "FAD0D5",
+            "FirstBorder": "9EDEF9",
+            "FirstText": "F8EADC",
+            "FirstVariantBackground": "FAD0D5",
+            "FirstVariantBorder": "9EDEF9",
+            "FirstVariantText": "F8EADC",
+            "SecondBackground": "FAD0D5",
+            "SecondBorder": "9EDEF9",
+            "SecondText": "F8EADC"
         },
         "Home": {
-            "Background": "#FAD0D5",
-            "CellBackground": "#79CEE0",
-            "CellBackgroundActive": "#336E8C",
-            "CellText": "#336E8C",
-            "CellTextActive": "#79CEE0",
-            "CellTextExternal": "#020303",
-            "CellTextExternalActive": "#F4D995"
+            "Background": "FAD0D5",
+            "CellBackground": "79CEE0",
+            "CellBackgroundActive": "336E8C",
+            "CellText": "336E8C",
+            "CellTextActive": "79CEE0",
+            "CellTextExternal": "020303",
+            "CellTextExternalActive": "F4D995"
         },
         "Atom": {
-            "Unknown": "#FAD0D5",
-            "Text": "#332011",
-            "AlkaliMetal": "#C64863",
-            "AlkaliEarthMetal": "#EB804C",
-            "Lanthanide": "#F59BAD",
-            "Actinide": "#FAD0D5",
-            "TransitionMetal": "#FBD570",
-            "PostTransitionMetal": "#FAD0D5",
-            "Metalloid": "#79CEE0",
-            "Halogen": "#726CA8",
-            "ReactiveNonmetal": "#FAD0D5",
-            "NobleGas": "#D9BAD2",
-            "TableLines": "#633C15"
+            "Unknown": "FAD0D5",
+            "Text": "332011",
+            "AlkaliMetal": "C64863",
+            "AlkaliEarthMetal": "EB804C",
+            "Lanthanide": "F59BAD",
+            "Actinide": "FAD0D5",
+            "TransitionMetal": "FBD570",
+            "PostTransitionMetal": "FAD0D5",
+            "Metalloid": "79CEE0",
+            "Halogen": "726CA8",
+            "ReactiveNonmetal": "FAD0D5",
+            "NobleGas": "D9BAD2",
+            "TableLines": "633C15"
         }
     }
 }
