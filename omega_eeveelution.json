@@ -39,8 +39,8 @@
             "Disabled": "A9584C"
         },
         "Calculation": {
-            "BackgroundOdd": "F7E8A1",
-            "BackgroundEven": "EB804C",
+            "BackgroundOdd": "FAD0D5FF",
+            "BackgroundEven": "BFE4DE",
             "EmptyBox": "FAFAFA",
             "EmptyBoxNeeded": "C7AB75",
             "TrigoAndComplexForeground": "FAD0D5"
@@ -50,16 +50,16 @@
             "BackgroundSelected": "778BBE",
             "Text": "F59BAD",
             "Comment": "7AC89E",
-            "Number": "726CA8",
+            "Number": "EB804C",
             "Keyword": "371750",
             "Operator": "C64863",
             "String": "A9584C",
             "GutterViewBackground": "5782A6"
         },
         "Probability": {
-            "Curve": "5BCEFA",
-            "CellBorder": "F5A9B8",
-            "HistogramBar": "F5A9B8"
+            "Curve": "7AC89E",
+            "CellBorder": "FAE9B9",
+            "HistogramBar": "8D6033"
         },
         "Statistics": {
             "Box": "F5A9B8",
@@ -79,11 +79,11 @@
             "HeaderBackground": "336E8C",
             "HeaderText": "FAD0D5",
             "HeaderBorder": "FAD0D5",
-            "Background": "E8E5C2"
+            "Background": "52B0C5"
         },
         "List": {
             "CellBackground": "C7AB75",
-            "CellBackgroundSelected": "FBD570",
+            "CellBackgroundSelected": "F59BAD",
             "CellBorder": "FBD570"
         },
         "Button": {
@@ -121,13 +121,13 @@
             "SecondText": "F8EADC"
         },
         "Home": {
-            "Background": "FAD0D5",
-            "CellBackground": "79CEE0",
-            "CellBackgroundActive": "336E8C",
-            "CellText": "336E8C",
-            "CellTextActive": "79CEE0",
-            "CellTextExternal": "020303",
-            "CellTextExternalActive": "F4D995"
+            "Background": "7AC89E",
+            "CellBackground": "336E8C",
+            "CellBackgroundActive": "79CEE0",
+            "CellText": "79CEE0",
+            "CellTextActive": "336E8C",
+            "CellTextExternal": "726CA8",
+            "CellTextExternalActive": "371750"
         },
         "Atom": {
             "Unknown": "FAD0D5",
@@ -137,11 +137,11 @@
             "Lanthanide": "F59BAD",
             "Actinide": "FAD0D5",
             "TransitionMetal": "FBD570",
-            "PostTransitionMetal": "FAD0D5",
+            "PostTransitionMetal": "7AC89E",
             "Metalloid": "79CEE0",
             "Halogen": "726CA8",
-            "ReactiveNonmetal": "FAD0D5",
-            "NobleGas": "D9BAD2",
+            "ReactiveNonmetal": "778BBE",
+            "NobleGas": "371750",
             "TableLines": "633C15"
         }
     }
